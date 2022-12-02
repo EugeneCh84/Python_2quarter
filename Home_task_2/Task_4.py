@@ -1,5 +1,3 @@
-  
-
 rng = int(input('Enter range of list :  \n'))
 my_list = []
 for i in range(-rng, rng+1):
