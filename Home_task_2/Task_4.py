@@ -1,13 +1,4 @@
-# from random import randint
-
-def List_Filling (num):
-#num = int(input('Enter range of list N :   \n '))
-    
-    return List_Filling
-#print(my_list, end = '\n')
-
-
-    
+  
 
 rng = int(input('Enter range of list :  \n'))
 my_list = []
